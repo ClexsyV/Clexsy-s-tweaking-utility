@@ -17,7 +17,6 @@ To ensure secure use, this program requires a unique activation key linked to yo
 
 ### Gaming & Performance
 - **Input Latency Fix:** Optimizes peripheral DataQueueSizes for faster response times.
-- **Mouse Optimization:** Applies a 1:1 hex curve and disables acceleration for raw input.
 - **Kernel DPC Optimization:** Distributes timers and optimizes thread priorities.
 - **NVIDIA Tweaks:** Enables specific driver optimizations like RID61684 and DLSS Indicators.
 
@@ -30,7 +29,7 @@ To ensure secure use, this program requires a unique activation key linked to yo
 ### Network & Cleaning
 - **TCP Gaming Opt:** Disables Nagle's Algorithm and optimizes packet priorities.
 - **System Deep Clean:** Automated removal of Temp files, Logs, and Update caches.
-- **Windows Activation:** Built-in tools for activating Windows Home/Pro via KMS.
+- **Windows Activation:** Built-in tools for activating Windows Home/Pro.
 
 ---
 
